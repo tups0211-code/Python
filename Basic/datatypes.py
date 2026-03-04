@@ -1,10 +1,10 @@
-//String
+#String
 food = "samosa"
 
-// int
+#int
 age = 25
 
-//float
+#float
 area = 670.98
 
 name = "khushi"
