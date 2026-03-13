@@ -1,4 +1,4 @@
-file = open("mast.txt","r")
+file = open("open.txt","r")
 data = file.read()
 
 
